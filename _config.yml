@@ -1,19 +1,4 @@
-name: Justin Handley
-favicon: null
-layout_spectrum: 0.164978482760489
 typography_spectrum: 0.89233
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.1477815811522305
   saturation: 0.5809770368505269
   rhythmicContrast: 0.9805753228720278
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.164978482760489
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Justin Handley
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: '?ylsuoireS'
 purpose: []
