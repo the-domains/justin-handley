@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Justin Handley]]></title>
         <description><![CDATA[Justin Handley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/justin-handley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 14:59:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 01:37:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justin-handley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Can the grid really build an ai website?</p>]]></description>
-            <link>undefineda74ce59a-cad2-4959-a69a-d30981638666/index.html</link>
+            <link>https://thegrid.ai/justin-handley/a74ce59a-cad2-4959-a69a-d30981638666/index.html</link>
             <guid isPermaLink="false">a74ce59a-cad2-4959-a69a-d30981638666</guid>
-            <pubDate>Sat, 05 Mar 2016 14:58:59 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 01:37:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
